@@ -1,0 +1,52 @@
+1. We first login as a recruiter, for Microsoft on the web 
+	application, shown on the leftmost window.
+
+2. The recruiter clicks on 'View Students' to view a maximum of
+ 10 students in line
+
+3. As students move ahead, recruiters have the option of 
+marking a student as starred, no-show, or next.
+
+4. A student 'priyanka' is at the end of the Microsoft line 
+
+5. We will log in a student 'Priyanka' on the phone application.
+ The 'Other Companies' page displays a list of company queues 
+which Priyanka has not yet joined. Each entry displays the 
+length of the queue.
+
+6. The 'Joined Queues'page displays 'Microsoft', along with
+Priyanka's token number and the number of people ahead of her
+in line.
+
+7. Another student 'nithya' now logs in through her phone.
+She has not yet joined any companies.
+
+8. She joins the Microsoft line.
+
+9. Nithya is next in line after Priyanka, as can be seen from 
+their 'My token' and 'People ahead' fields for Microsoft.
+
+10. Meanwhile, the recruiter has been talking to students. He
+likes Adrien's profile, and 'stars' Adrien's resume to view later.
+
+11. The system realizes that there are only 3 people ahead of
+Priyanka in the Microsoft line, and sends a notification to her
+to join the queue physically. It gives her options to confirm
+her position, or to leave.
+
+12. Priyanka realizes that she cannot make it, and chooses to 
+leave the queue.
+
+13. 2 things to notice:
+   a. Nithya gets a notification to join
+the Microsoft line now that there are only 3 people ahead
+   b. The recruiter's view of the queue no longer has 'Priyanka'
+
+14. Nithya chooses to confirm her position in the physical queue
+
+15. The recruiter moves onto the next student using 'Next' and 
+marks someone as 'No-show' in the event they confirm their
+presence and still do not turn up in the queue.
+
+16. The recruiter can finally view the list of starred students
+along with their resumes.

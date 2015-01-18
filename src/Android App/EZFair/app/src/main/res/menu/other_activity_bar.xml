@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/refresh"
+        android:title="Refresh"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_refresh"/>
+    <item android:id="@+id/overflow"
+        android:title=""
+        android:icon="@drawable/ic_action_overflow"
+        android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/joined_companies"
+                android:title="@string/joined_companies"
+                android:showAsAction="always" />
+            <item android:id="@+id/logout"
+                android:title="Logout"
+                android:showAsAction="ifRoom" />
+        </menu>
+    </item>
+</menu>
